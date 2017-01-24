@@ -8,11 +8,22 @@
         android:id="@+id/myButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hello" />
-    <ImageView
+        android:text="Using abc_ic_ab_back_material" />
+<!--    <ImageView
+        app:srcCompat="@drawable/arrow_down"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:id="@+id/imageView" />-->
+<!--    <ImageView
         app:srcCompat="@drawable/rotate"
         android:layout_width="match_parent"
         android:layout_height="fill_parent"
         android:layout_weight="1"
-        android:id="@+id/imageView" />
+        android:id="@+id/imageView" />-->
+<!--	<ImageView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:id="@+id/imageView" />-->
 </LinearLayout>

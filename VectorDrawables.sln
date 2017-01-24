@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F0D705E7-07D3-49DE-8122-24D7FE2E628C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorDrawables", "Test\VectorDrawables.csproj", "{F0D705E7-07D3-49DE-8122-24D7FE2E628C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
